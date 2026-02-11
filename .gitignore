@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build/artifacts
+build/
+dist/
+*.egg-info/
+
+# Local results/artifacts
+results/
+plots/
+benchmarks/
